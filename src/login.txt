@@ -1,0 +1,26 @@
+amazonuser@gmail.com
+
+amazonuser123
+
+
++ console:
+
+# Backend
+C:\Users\tnikh\happy-body>  firebase emulators:start    
+    - use it in terminal to check purchase functions locally
+
+C:\Users\tnikh\happy-body\functions> firebase deploy --only functions
+
+# Frontend (web.app setup)
+C:\Users\tnikh\happy-body> npm run build
+C:\Users\tnikh\happy-body> firebase init
+    - Select hosting configure for firebase
+    - public directory  :   build
+    - configure as single page app
+    - N:    setup automatic builds and deployes with github
+
+C:\Users\tnikh\happy-body> npm run build && firebase deploy --only hosting
+
+
+
++ dummy Card number    :   4242    4242    4242    4242
