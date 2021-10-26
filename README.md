@@ -1,5 +1,5 @@
 #NOTE: Replace firebase's private and secret key with yours Key.
-
+#NOTE: Dependencies: nodeJs
 
 # Getting Started with Create React App
 
