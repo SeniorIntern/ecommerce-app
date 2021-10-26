@@ -1,3 +1,6 @@
+#NOTE: Replace firebase's private and secret key with yours Key.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
