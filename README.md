@@ -1,7 +1,7 @@
 Demo: https://www.loom.com/share/f5d5aaa8b46644e5aeb63aca953ef63b?sharedAppSource=personal_library
 
 #NOTE: Replace firebase's private and secret key with yours Key.
-#NOTE: Dependencies: nodeJs
+#NOTE: use npm install to install all dependencies/modules.
 
 # Getting Started with Create React App
 
